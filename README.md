@@ -1,1 +1,1 @@
-# Personal website for Michael Cary
+# Professional website for Michael Cary
