@@ -1,1 +1,1 @@
-# Professional website for Michael Cary
+# Repository for my professional website
