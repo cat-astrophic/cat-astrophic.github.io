@@ -1,19 +1,2 @@
-# Site wide configuration
-
 theme: jekyll-theme-slate
-title: Academic Website of Michael Cary
-locale: en_US
-logo: ada.jfif
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Michael Cary
-  avatar: ada.jfif
-  #bio: "This is a sample Jekyll academic website."
-  email: macary@mix.wvu.edu
-  twitter: data_cats
-  github: cat-astrophic
-  orcid: 0000-0002-6984-6712
-  researchgate: Michael-Cary-3
-  google:
-    scholar: WiG-_48AAAAJ
+title: Michael Cary
