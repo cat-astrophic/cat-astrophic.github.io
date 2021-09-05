@@ -1,6 +1,6 @@
 ---
-title: "Ted Laderas"
-image: "image/ted.jpg"
+title: "Michael Cary"
+image: "img/Ada.jfif"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=WiG-_48AAAAJ&hl=en"
@@ -11,8 +11,6 @@ links:
   - label: Email
     url: "mailto: [macary@mix.wvu.edu]"
 site: distill::distill_website
-output:
-  postcards::trestles
 ---
 
 I am a PhD student in the Division of Resource Economics and Management at West Virginia University.
